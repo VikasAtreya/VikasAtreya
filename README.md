@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi
+👋 Hi<br>
 🔭 I'm currently working as Software Developer at HSBC<br>💞 I'm proficient in Java & it's frameworks and RDBMS<br>
 👀 I’m interested in Full Stack Development<br>🌱 I'm currently learning JavaScript, React JS, GIT & GITHUB  <br>👯 I’m looking to collaborate on Software Development<br>📫 How to reach me ... Official Mail Id: vikasatreya271@gmail.com
 
